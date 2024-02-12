@@ -1,0 +1,47 @@
+{
+      "config":[
+         {
+            "title":"Tamanho da fonte",
+            "value":"Padrão"
+         },
+         {
+            "title":"Ponteiro do mouse grande",
+            "value":"1.0x"
+         },
+         {
+            "title":"Escalas de Animação da janela",
+            "value":"1.0x"
+         },
+         {
+            "title":"Escala Animação de transição",
+            "value":"1.0x"
+         },
+         {
+            "title":"Escala de duração do Animator",
+            "value":"0.6x"
+         },
+         {
+            "value":"As 3 funções abaixo são as mesma"
+         },
+         {
+            "title":"Atraso ao manter pressionado",
+            "value":"Curto"
+         },
+         {
+            "title":"Atraso ao tocar na opção",
+            "value":"Curto"
+         },
+         {
+            "title":"Tempo de permanência",
+            "value":"Curto"
+         }
+      ],
+      "video":[
+         {
+            "url":"https://drive.google.com/file/d/1nd5t3Yin9V-ny_j7tCCA-0UgvU4DBWFT/view"
+         },
+         {
+            "url":"https://drive.google.com/file/d/10dly41F169aAggCAHsZOZTkU1V-I8jie/view"
+         }
+      ]
+   }

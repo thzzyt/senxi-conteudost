@@ -1,0 +1,74 @@
+{
+  "4X4-CS": [
+    {
+      "img": "https://drive.google.com/file/d/19yUoWounM_CvFt6GHQtV_jPoMajt9HVu/view?usp=drive_link",
+      "type": "SEM DPI"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1-K-qyEyMFBtMlDYY7J49_hTOBAF7yIS_/view?usp=drive_link",
+      "type": "-600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1Jo7b5VI9Kd79twna5sfkSHlD5jxHGGr1/view?usp=drive_link",
+      "type": "+600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1f46FL1YZZpcDmW88BoalwUJZS6yLeSUW/view?usp=drive_link",
+      "type": "+1000"
+    }
+  ],
+  "RANQUEADA": [
+    {
+      "img": "https://drive.google.com/file/d/10AzWzjQSuGYujsJXJLztvgWGesc07mGJ/view?usp=drive_link",
+      "type": "SEM DPI"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1FS4Za70nT2G60E9q3R3U4ImTj4G__iAC/view?usp=drive_link",
+      "type": "-600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1XJwoZSz3wrkuJ6x4ZYuMwtWE45a0qbS0/view?usp=drive_link",
+      "type": "+600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1_wUmx6d0LpoxvqOZAJn2kGML1wc0uSZM/view?usp=drive_link",
+      "type": "+1000"
+    }
+  ],
+  "TODOS": [
+    {
+      "img": "https://drive.google.com/file/d/1u31pv5HVH0YiJivfqf40_Q3GN-OE-z-M/view?usp=drive_link",
+      "type": "SEM DPI"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1p9QI1mD7AM3Vcw-LmJ4bk5vYWLgvOyeZ/view?usp=drive_link",
+      "type": "-600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1OPdruRRvbLkNtp7kZe8h2P645jqQ_TtI/view?usp=drive_link",
+      "type": "+600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1wKw8S9bJGkRDjTQ2OFzqk4RE4UqY4WT_/view?usp=drive_link",
+      "type": "+1000"
+    }
+  ],
+  "X1": [
+    {
+      "img": "https://drive.google.com/file/d/1c5GjbC0YHIc3WnhGdQAYYOnNjNB9x_AO/view?usp=drive_link",
+      "type": "SEM DPI"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1XdHTnccNgaQM-fhL2u6qan__taplUbhw/view?usp=drive_link",
+      "type": "-600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1BX9OxPogEHIWzZQKumMxW-5z80MtHSUF/view?usp=drive_link",
+      "type": "+600"
+    },
+    {
+      "img": "https://drive.google.com/file/d/1WUyYSe6HgumI-ah7Wg28qsZ4ra4rLnU6/view?usp=drive_link",
+      "type": "+1000"
+    }
+  ]
+}
